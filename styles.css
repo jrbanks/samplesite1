@@ -1,0 +1,64 @@
+html, body{
+    height: 100%;
+}
+
+#cover{
+    background: #222 url(https://scontent-sjc2-1.xx.fbcdn.net/v/t31.0-8/21544149_1585489318140098_2883870716958605784_o.jpg?oh=a010fe361d01cc081605ede4d6628c8e&oe=5A12CB8D) center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#cover-caption{
+    width: 100%;
+}
+
+img{
+    max-width: 100%;
+    
+}
+
+.section-content{
+    padding: 5rem;
+    color: black;
+}
+
+  
+
+#about{
+    background: url(https://scontent.fsnc1-1.fna.fbcdn.net/v/t31.0-8/21752956_1585572011465162_6554315449962547631_o.jpg?oh=387fce331dd5c37a951c71fddec98281&oe=5A4BCA0F) center center no-repeat;
+    background-size: cover;
+}
+
+.about-text{
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+ 
+
+#news{
+    background: #567;
+}
+
+h3, .lead{
+    color: white;
+}
+
+.carousel-caption, h3, p{
+    color: black;
+}
+
+
+
+
+#footer-main{
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
+
